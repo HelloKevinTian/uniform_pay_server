@@ -1,0 +1,287 @@
+[2015-01-30 10:48:12.537] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 10:48:14.902] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/
+[2015-01-30 10:48:14.904] [DEBUG] http-logger - before dispatchMessage
+[2015-01-30 10:48:14.904] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15012919504000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35109</status><signMsg>0954edd9538ac065d1101745db06f6db</signMsg></callbackReq>
+[2015-01-30 10:49:08.296] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 10:49:10.369] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/
+[2015-01-30 10:49:10.371] [DEBUG] http-logger - before dispatchMessage
+[2015-01-30 10:49:10.372] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15012919504000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35109</status><signMsg>0954edd9538ac065d1101745db06f6db</signMsg></callbackReq>
+[2015-01-30 10:50:18.201] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 10:50:20.375] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/
+[2015-01-30 10:50:20.377] [DEBUG] http-logger - before dispatchMessage
+[2015-01-30 10:50:20.377] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15012919504000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35109</status><signMsg>0954edd9538ac065d1101745db06f6db</signMsg></callbackReq>
+[2015-01-30 10:51:20.114] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 10:51:22.396] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/
+[2015-01-30 10:51:22.398] [DEBUG] http-logger - before dispatchMessage
+[2015-01-30 10:51:22.398] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15012919504000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35109</status><signMsg>0954edd9538ac065d1101745db06f6db</signMsg></callbackReq>
+[2015-01-30 10:58:20.516] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 10:58:22.128] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/
+[2015-01-30 10:58:22.130] [DEBUG] http-logger - before dispatchMessage
+[2015-01-30 10:58:22.130] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15012919504000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35109</status><signMsg>0954edd9538ac065d1101745db06f6db</signMsg></callbackReq>
+[2015-01-30 10:58:50.097] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 10:58:52.366] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/
+[2015-01-30 10:58:52.368] [DEBUG] http-logger - before dispatchMessage
+[2015-01-30 10:58:52.368] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15012919504000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35109</status><signMsg>0954edd9538ac065d1101745db06f6db</signMsg></callbackReq>
+[2015-01-30 10:59:56.433] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 10:59:58.314] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/
+[2015-01-30 10:59:58.316] [DEBUG] http-logger - before dispatchMessage
+[2015-01-30 10:59:58.316] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15012919504000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35109</status><signMsg>0954edd9538ac065d1101745db06f6db</signMsg></callbackReq>
+[2015-01-30 11:00:29.121] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 11:01:26.230] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/
+[2015-01-30 11:01:26.234] [DEBUG] http-logger - before dispatchMessage
+[2015-01-30 11:01:26.235] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15012919504000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35109</status><signMsg>0954edd9538ac065d1101745db06f6db</signMsg></callbackReq>
+[2015-01-30 11:01:41.000] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/
+[2015-01-30 11:01:41.000] [DEBUG] http-logger - before dispatchMessage
+[2015-01-30 11:01:41.000] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15012919504000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35109</status><signMsg>0954edd9538ac065d1101745db06f6db</signMsg></callbackReq>
+[2015-01-30 11:02:00.098] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 11:02:05.459] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/
+[2015-01-30 11:02:05.465] [DEBUG] http-logger - before dispatchMessage
+[2015-01-30 11:02:07.515] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15012919504000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35109</status><signMsg>0954edd9538ac065d1101745db06f6db</signMsg></callbackReq>
+[2015-01-30 11:02:28.882] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 11:02:28.883] [DEBUG] http-logger - before dispatchMessage
+[2015-01-30 11:02:31.361] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15012919504000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35109</status><signMsg>0954edd9538ac065d1101745db06f6db</signMsg></callbackReq>
+[2015-01-30 11:02:35.519] [DEBUG] http-logger - { paymessages: 
+   { checkOrderIdRsp: 0,
+     appname: '玩玩车神',
+     feename: '8万金币',
+     payfee: 400,
+     appdeveloper: '豌豆荚出品',
+     appid: '9010792216420150123153416867300',
+     serviceid: '150123085231',
+     channelid: '00018756',
+     cpid: 86008955,
+     appversion: '1.0.0' } }
+[2015-01-30 11:02:35.523] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><paymessages><checkOrderIdRsp>0</checkOrderIdRsp><appname>玩玩车神</appname><feename>8万金币</feename><payfee>400</payfee><appdeveloper>豌豆荚出品</appdeveloper><appid>9010792216420150123153416867300</appid><serviceid>150123085231</serviceid><channelid>00018756</channelid><cpid>86008955</cpid><appversion>1.0.0</appversion></paymessages>
+[2015-01-30 11:02:41.617] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 11:02:41.618] [DEBUG] http-logger - before dispatchMessage
+[2015-01-30 11:02:54.626] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15012919504000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35109</status><signMsg>0954edd9538ac065d1101745db06f6db</signMsg></callbackReq>
+[2015-01-30 11:03:08.830] [DEBUG] http-logger - { paymessages: 
+   { checkOrderIdRsp: 0,
+     appname: '玩玩车神',
+     feename: '8万金币',
+     payfee: 400,
+     appdeveloper: '豌豆荚出品',
+     appid: '9010792216420150123153416867300',
+     serviceid: '150123085231',
+     channelid: '00018756',
+     cpid: 86008955,
+     appversion: '1.0.0' } }
+[2015-01-30 11:03:08.831] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><paymessages><checkOrderIdRsp>0</checkOrderIdRsp><appname>玩玩车神</appname><feename>8万金币</feename><payfee>400</payfee><appdeveloper>豌豆荚出品</appdeveloper><appid>9010792216420150123153416867300</appid><serviceid>150123085231</serviceid><channelid>00018756</channelid><cpid>86008955</cpid><appversion>1.0.0</appversion></paymessages>
+[2015-01-30 11:07:18.734] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 11:07:23.166] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 11:07:23.167] [DEBUG] http-logger - before dispatchMessage
+[2015-01-30 11:07:23.167] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15012919504000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35109</status><signMsg>0954edd9538ac065d1101745db06f6db</signMsg></callbackReq>
+[2015-01-30 11:07:23.172] [DEBUG] http-logger - { paymessages: 
+   { checkOrderIdRsp: 0,
+     appname: '玩玩车神',
+     feename: '8万金币',
+     payfee: 400,
+     appdeveloper: '豌豆荚出品',
+     appid: '9010792216420150123153416867300',
+     serviceid: '150123085231',
+     channelid: '00018756',
+     cpid: 86008955,
+     appversion: '1.0.0' } }
+[2015-01-30 11:07:23.174] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><paymessages><checkOrderIdRsp>0</checkOrderIdRsp><appname>玩玩车神</appname><feename>8万金币</feename><payfee>400</payfee><appdeveloper>豌豆荚出品</appdeveloper><appid>9010792216420150123153416867300</appid><serviceid>150123085231</serviceid><channelid>00018756</channelid><cpid>86008955</cpid><appversion>1.0.0</appversion></paymessages>
+[2015-01-30 11:08:35.661] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 11:08:35.661] [DEBUG] http-logger - before dispatchMessage
+[2015-01-30 11:08:35.661] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15012919504000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35109</status><signMsg>0954edd9538ac065d1101745db06f6db</signMsg></callbackReq>
+[2015-01-30 11:08:35.662] [DEBUG] http-logger - { paymessages: 
+   { checkOrderIdRsp: 0,
+     appname: '玩玩车神',
+     feename: '8万金币',
+     payfee: 400,
+     appdeveloper: '豌豆荚出品',
+     appid: '9010792216420150123153416867300',
+     serviceid: '150123085231',
+     channelid: '00018756',
+     cpid: 86008955,
+     appversion: '1.0.0' } }
+[2015-01-30 11:08:35.663] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><paymessages><checkOrderIdRsp>0</checkOrderIdRsp><appname>玩玩车神</appname><feename>8万金币</feename><payfee>400</payfee><appdeveloper>豌豆荚出品</appdeveloper><appid>9010792216420150123153416867300</appid><serviceid>150123085231</serviceid><channelid>00018756</channelid><cpid>86008955</cpid><appversion>1.0.0</appversion></paymessages>
+[2015-01-30 11:10:34.476] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 11:10:42.607] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 11:10:42.610] [DEBUG] http-logger - before dispatchMessage
+[2015-01-30 11:10:42.610] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15012919504000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35109</status><signMsg>0954edd9538ac065d1101745db06f6db</signMsg></callbackReq>
+[2015-01-30 11:10:42.617] [DEBUG] http-logger - { paymessages: 
+   { checkOrderIdRsp: 0,
+     appname: '玩玩车神',
+     feename: '8万金币',
+     payfee: 400,
+     appdeveloper: '豌豆荚出品',
+     appid: '9010792216420150123153416867300',
+     serviceid: '150123085231',
+     channelid: '00018756',
+     cpid: 86008955,
+     appversion: '1.0.0' } }
+[2015-01-30 11:10:42.620] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><paymessages><checkOrderIdRsp>0</checkOrderIdRsp><appname>玩玩车神</appname><feename>8万金币</feename><payfee>400</payfee><appdeveloper>豌豆荚出品</appdeveloper><appid>9010792216420150123153416867300</appid><serviceid>150123085231</serviceid><channelid>00018756</channelid><cpid>86008955</cpid><appversion>1.0.0</appversion></paymessages>
+[2015-01-30 11:31:11.487] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 11:31:11.487] [DEBUG] http-logger - before dispatchMessage
+[2015-01-30 11:31:11.488] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15012919504000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35109</status><signMsg>0954edd9538ac065d1101745db06f6db</signMsg></callbackReq>
+[2015-01-30 11:31:11.488] [DEBUG] http-logger - { paymessages: 
+   { checkOrderIdRsp: 0,
+     appname: '玩玩车神',
+     feename: '8万金币',
+     payfee: 400,
+     appdeveloper: '豌豆荚出品',
+     appid: '9010792216420150123153416867300',
+     serviceid: '150123085231',
+     channelid: '00018756',
+     cpid: 86008955,
+     appversion: '1.0.0' } }
+[2015-01-30 11:31:11.490] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><paymessages><checkOrderIdRsp>0</checkOrderIdRsp><appname>玩玩车神</appname><feename>8万金币</feename><payfee>400</payfee><appdeveloper>豌豆荚出品</appdeveloper><appid>9010792216420150123153416867300</appid><serviceid>150123085231</serviceid><channelid>00018756</channelid><cpid>86008955</cpid><appversion>1.0.0</appversion></paymessages>
+[2015-01-30 11:31:13.747] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 11:31:15.796] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 11:31:15.798] [DEBUG] http-logger - before dispatchMessage
+[2015-01-30 11:31:15.798] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15012919504000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35109</status><signMsg>0954edd9538ac065d1101745db06f6db</signMsg></callbackReq>
+[2015-01-30 11:31:15.802] [DEBUG] http-logger - { paymessages: 
+   { checkOrderIdRsp: 0,
+     appname: '玩玩车神',
+     feename: '8万金币',
+     payfee: 400,
+     appdeveloper: '豌豆荚出品',
+     appid: '9010792216420150123153416867300',
+     serviceid: '150123085231',
+     channelid: '00018756',
+     cpid: 86008955,
+     appversion: '1.0.0' } }
+[2015-01-30 11:31:15.804] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><paymessages><checkOrderIdRsp>0</checkOrderIdRsp><appname>玩玩车神</appname><feename>8万金币</feename><payfee>400</payfee><appdeveloper>豌豆荚出品</appdeveloper><appid>9010792216420150123153416867300</appid><serviceid>150123085231</serviceid><channelid>00018756</channelid><cpid>86008955</cpid><appversion>1.0.0</appversion></paymessages>
+[2015-01-30 11:31:56.511] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 11:31:58.530] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 11:31:58.532] [DEBUG] http-logger - before dispatchMessage
+[2015-01-30 11:31:58.532] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15012919504000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35109</status><signMsg>0954edd9538ac065d1101745db06f6db</signMsg></callbackReq>
+[2015-01-30 11:31:58.537] [DEBUG] http-logger - { paymessages: 
+   { checkOrderIdRsp: 0,
+     appname: '玩玩车神',
+     feename: '8万金币',
+     payfee: 400,
+     appdeveloper: '豌豆荚出品',
+     gameaccount: '',
+     macaddress: '',
+     appid: '9010792216420150123153416867300',
+     ipaddress: '',
+     serviceid: '150123085231',
+     channelid: '00018756',
+     cpid: 86008955,
+     ordertime: 1422588718537,
+     imei: '',
+     appversion: '1.0.0' } }
+[2015-01-30 11:31:58.539] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><paymessages><checkOrderIdRsp>0</checkOrderIdRsp><appname>玩玩车神</appname><feename>8万金币</feename><payfee>400</payfee><appdeveloper>豌豆荚出品</appdeveloper><gameaccount/><macaddress/><appid>9010792216420150123153416867300</appid><ipaddress/><serviceid>150123085231</serviceid><channelid>00018756</channelid><cpid>86008955</cpid><ordertime>1422588718537</ordertime><imei/><appversion>1.0.0</appversion></paymessages>
+[2015-01-30 12:31:24.006] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 12:31:38.137] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 12:31:50.344] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 12:33:09.952] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 12:33:13.411] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 12:33:42.527] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 12:34:00.319] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 12:34:00.321] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15012919504000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35109</status><signMsg>0954edd9538ac065d1101745db06f6db</signMsg></callbackReq>
+[2015-01-30 12:34:50.391] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 12:35:59.423] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 12:36:08.510] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 12:36:08.515] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15012919504000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35109</status><signMsg>0954edd9538ac065d1101745db06f6db</signMsg></callbackReq>
+[2015-01-30 12:39:44.060] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 12:39:45.847] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 12:39:45.849] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15012919504000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35109</status><signMsg>0954edd9538ac065d1101745db06f6db</signMsg></callbackReq>
+[2015-01-30 12:40:20.786] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 12:40:23.775] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 12:40:23.776] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15012919504000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35109</status><signMsg>0954edd9538ac065d1101745db06f6db</signMsg></callbackReq>
+[2015-01-30 12:40:43.131] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 12:40:45.014] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 12:40:45.016] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15012919504000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35109</status><signMsg>0954edd9538ac065d1101745db06f6db</signMsg></callbackReq>
+[2015-01-30 13:01:38.009] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 13:01:39.881] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 13:02:45.754] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 13:02:59.905] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 13:03:02.317] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 13:03:02.319] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><checkOrderIdReq><orderid>wwcs15013012462000000000000000000104</orderid><signMsg>e22d7786b2d860e511a7e357c00d7eba</signMsg><usercode>c0472308e8824962387d81b155149822</usercode><provinceid>4043</provinceid><cityid>10</cityid></checkOrderIdReq>
+[2015-01-30 13:07:18.051] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 13:07:20.052] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 13:07:20.054] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><checkOrderIdReq><orderid>wwcs15013012462000000000000000000104</orderid><signMsg>e22d7786b2d860e511a7e357c00d7eba</signMsg><usercode>c0472308e8824962387d81b155149822</usercode><provinceid>4043</provinceid><cityid>10</cityid></checkOrderIdReq>
+[2015-01-30 13:09:30.328] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 13:09:32.229] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 13:09:32.231] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><checkOrderIdReq><orderid>wwcs15013012462000000000000000000104</orderid><signMsg>e22d7786b2d860e511a7e357c00d7eba</signMsg><usercode>c0472308e8824962387d81b155149822</usercode><provinceid>4043</provinceid><cityid>10</cityid></checkOrderIdReq>
+[2015-01-30 13:10:45.578] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 13:10:45.579] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15013012462000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35116</status><signMsg>9b0d4783f8658aef3b5a5f5e9a8345cb</signMsg></callbackReq>
+[2015-01-30 13:14:59.504] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 13:15:26.882] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 13:15:31.429] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 13:15:35.575] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15013012462000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35116</status><signMsg>9b0d4783f8658aef3b5a5f5e9a8345cb</signMsg></callbackReq>
+[2015-01-30 13:16:35.948] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 13:26:16.585] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 13:26:18.896] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 13:26:18.898] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15013012462000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35116</status><signMsg>9b0d4783f8658aef3b5a5f5e9a8345cb</signMsg></callbackReq>
+[2015-01-30 13:26:18.904] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><paymessages><checkOrderIdRsp>0</checkOrderIdRsp><appname>玩玩车神</appname><feename>8万金币</feename><payfee>400</payfee><appdeveloper>豌豆荚出品</appdeveloper><gameaccount/><macaddress/><appid>9010792216420150123153416867300</appid><ipaddress/><serviceid>150123085231</serviceid><channelid>00018756</channelid><cpid>86008955</cpid><ordertime>20150130132618</ordertime><imei/><appversion>1.0.0</appversion></paymessages>
+[2015-01-30 13:43:31.070] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 13:43:40.039] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 13:43:41.972] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15013012462000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35116</status><signMsg>9b0d4783f8658aef3b5a5f5e9a8345cb</signMsg></callbackReq>
+[2015-01-30 13:44:12.958] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><paymessages><checkOrderIdRsp>0</checkOrderIdRsp><appname>玩玩车神</appname><feename>8万金币</feename><payfee>400</payfee><appdeveloper>豌豆荚出品</appdeveloper><gameaccount/><macaddress/><appid>9010792216420150123153416867300</appid><ipaddress/><serviceid>150123085231</serviceid><channelid>00018756</channelid><cpid>86008955</cpid><ordertime>20150130134412</ordertime><imei/><appversion>1.0.0</appversion></paymessages>
+[2015-01-30 13:46:18.856] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 13:46:29.601] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 13:46:31.898] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15013012462000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35116</status><signMsg>9b0d4783f8658aef3b5a5f5e9a8345cb</signMsg></callbackReq>
+[2015-01-30 13:46:36.333] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><paymessages><checkOrderIdRsp>0</checkOrderIdRsp><appname>玩玩车神</appname><feename>8万金币</feename><payfee>400</payfee><appdeveloper>豌豆荚出品</appdeveloper><gameaccount/><macaddress/><appid>9010792216420150123153416867300</appid><ipaddress/><serviceid>150123085231</serviceid><channelid>00018756</channelid><cpid>86008955</cpid><ordertime>20150130134636</ordertime><imei/><appversion>1.0.0</appversion></paymessages>
+[2015-01-30 13:48:03.222] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 13:48:04.908] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 13:48:04.910] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15013012462000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35116</status><signMsg>9b0d4783f8658aef3b5a5f5e9a8345cb</signMsg></callbackReq>
+[2015-01-30 13:48:41.596] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 13:49:09.555] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 13:49:12.224] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 13:49:12.226] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><checkOrderIdReq><orderid>wwcs15013012462000000000000000000104</orderid><signMsg>e22d7786b2d860e511a7e357c00d7eba</signMsg><usercode>c0472308e8824962387d81b155149822</usercode><provinceid>4043</provinceid><cityid>10</cityid></checkOrderIdReq>
+[2015-01-30 13:49:12.232] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><paymessages><checkOrderIdRsp>0</checkOrderIdRsp><appname>玩玩车神</appname><feename>8万金币</feename><payfee>400</payfee><appdeveloper>豌豆荚出品</appdeveloper><gameaccount/><macaddress/><appid>9010792216420150123153416867300</appid><ipaddress/><serviceid>150123085231</serviceid><channelid>00018756</channelid><cpid>86008955</cpid><ordertime>20150130134912</ordertime><imei/><appversion>1.0.0</appversion></paymessages>
+[2015-01-30 13:56:52.872] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 13:56:55.049] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 13:56:55.051] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15013012462000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35116</status><signMsg>9b0d4783f8658aef3b5a5f5e9a8345cb</signMsg></callbackReq>
+[2015-01-30 13:56:55.055] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><checkOrderIdRsp>0</checkOrderIdRsp>
+[2015-01-30 13:57:00.647] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 13:57:07.193] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 13:57:09.530] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15013012462000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35116</status><signMsg>9b0d4783f8658aef3b5a5f5e9a8345cb</signMsg></callbackReq>
+[2015-01-30 13:57:23.602] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><checkOrderIdRsp>0</checkOrderIdRsp>
+[2015-01-30 13:58:26.678] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 13:58:28.931] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 13:58:28.934] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15013012462000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35116</status><signMsg>9b0d4783f8658aef3b5a5f5e9a8345cb</signMsg></callbackReq>
+[2015-01-30 13:58:28.938] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackRsp>0</callbackRsp>
+[2015-01-30 13:59:09.812] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 13:59:09.813] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><checkOrderIdReq><orderid>wwcs15013012462000000000000000000104</orderid><signMsg>e22d7786b2d860e511a7e357c00d7eba</signMsg><usercode>c0472308e8824962387d81b155149822</usercode><provinceid>4043</provinceid><cityid>10</cityid></checkOrderIdReq>
+[2015-01-30 13:59:09.814] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><paymessages><checkOrderIdRsp>0</checkOrderIdRsp><appname>玩玩车神</appname><feename>8万金币</feename><payfee>400</payfee><appdeveloper>豌豆荚出品</appdeveloper><gameaccount/><macaddress/><appid>9010792216420150123153416867300</appid><ipaddress/><serviceid>150123085231</serviceid><channelid>00018756</channelid><cpid>86008955</cpid><ordertime>20150130135909</ordertime><imei/><appversion>1.0.0</appversion></paymessages>
+[2015-01-30 13:59:30.415] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 13:59:30.415] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15013012462000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35116</status><signMsg>9b0d4783f8658aef3b5a5f5e9a8345cb</signMsg></callbackReq>
+[2015-01-30 13:59:30.416] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackRsp>0</callbackRsp>
+[2015-01-30 14:01:15.158] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 14:01:16.921] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 14:01:16.923] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15013012462000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35116</status><signMsg>9b0d4783f8658aef3b5a5f5e9a8345cb</signMsg></callbackReq>
+[2015-01-30 14:01:16.928] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackRsp>0</callbackRsp>
+[2015-01-30 14:13:03.902] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 14:13:09.542] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 14:13:09.544] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15013012462000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35116</status><signMsg>9b0d4783f8658aef3b5a5f5e9a8345cb</signMsg></callbackReq>
+[2015-01-30 14:13:09.549] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackRsp>0</callbackRsp>
+[2015-01-30 14:13:35.826] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 14:13:35.827] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><checkOrderIdReq><orderid>wwcs15013012462000000000000000000104</orderid><signMsg>e22d7786b2d860e511a7e357c00d7eba</signMsg><usercode>c0472308e8824962387d81b155149822</usercode><provinceid>4043</provinceid><cityid>10</cityid></checkOrderIdReq>
+[2015-01-30 14:13:35.829] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><paymessages><checkOrderIdRsp>0</checkOrderIdRsp><appname>玩玩车神</appname><feename>8万金币</feename><payfee>400</payfee><appdeveloper>豌豆荚出品</appdeveloper><gameaccount/><macaddress/><appid>9010792216420150123153416867300</appid><ipaddress/><serviceid>150123085231</serviceid><channelid>00018756</channelid><cpid>86008955</cpid><ordertime>20150130141335</ordertime><imei/><appversion>1.0.0</appversion></paymessages>
+[2015-01-30 14:26:30.065] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 14:26:43.958] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 14:26:46.740] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><checkOrderIdReq><orderid>wwcs15013012462000000000000000000104</orderid><signMsg>e22d7786b2d860e511a7e357c00d7eba</signMsg><usercode>c0472308e8824962387d81b155149822</usercode><provinceid>4043</provinceid><cityid>10</cityid></checkOrderIdReq>
+[2015-01-30 14:27:12.517] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><paymessages><checkOrderIdRsp>0</checkOrderIdRsp><appname>玩玩车神</appname><feename>8万金币</feename><payfee>400</payfee><appdeveloper>豌豆荚出品</appdeveloper><gameaccount/><macaddress/><appid>9010792216420150123153416867300</appid><ipaddress/><serviceid>150123085231</serviceid><channelid>00018756</channelid><cpid>86008955</cpid><ordertime>20150130142701</ordertime><imei/><appversion>1.0.0</appversion></paymessages>
+[2015-01-30 14:35:41.089] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 14:35:43.905] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop?serviceid=validateorderid
+[2015-01-30 14:35:43.907] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><checkOrderIdReq><orderid>wwcs15013012462000000000000000000104</orderid><signMsg>e22d7786b2d860e511a7e357c00d7eba</signMsg><usercode>c0472308e8824962387d81b155149822</usercode><provinceid>4043</provinceid><cityid>10</cityid></checkOrderIdReq>
+[2015-01-30 14:35:43.914] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><paymessages><checkOrderIdRsp>0</checkOrderIdRsp><appname>玩玩车神</appname><feename>8万金币</feename><payfee>400</payfee><appdeveloper>豌豆荚出品</appdeveloper><gameaccount/><macaddress/><appid>9010792216420150123153416867300</appid><ipaddress/><serviceid>150123085231</serviceid><channelid>00018756</channelid><cpid>86008955</cpid><ordertime>20150130143543</ordertime><imei/><appversion>1.0.0</appversion></paymessages>
+[2015-01-30 14:35:55.260] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 14:35:55.261] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15013012462000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35116</status><signMsg>9b0d4783f8658aef3b5a5f5e9a8345cb</signMsg></callbackReq>
+[2015-01-30 14:35:55.263] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackRsp>0</callbackRsp>
+[2015-01-30 14:36:40.219] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop?serviceid=validateorderid
+[2015-01-30 14:36:40.219] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><checkOrderIdReq><orderid>wwcs15013012462000000000000000000104</orderid><signMsg>e22d7786b2d860e511a7e357c00d7eba</signMsg><usercode>c0472308e8824962387d81b155149822</usercode><provinceid>4043</provinceid><cityid>10</cityid></checkOrderIdReq>
+[2015-01-30 14:36:40.221] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><paymessages><checkOrderIdRsp>0</checkOrderIdRsp><appname>玩玩车神</appname><feename>8万金币</feename><payfee>400</payfee><appdeveloper>豌豆荚出品</appdeveloper><gameaccount/><macaddress/><appid>9010792216420150123153416867300</appid><ipaddress/><serviceid>150123085231</serviceid><channelid>00018756</channelid><cpid>86008955</cpid><ordertime>20150130143640</ordertime><imei/><appversion>1.0.0</appversion></paymessages>
+[2015-01-30 14:36:40.221] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 14:36:40.222] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15013012462000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35116</status><signMsg>9b0d4783f8658aef3b5a5f5e9a8345cb</signMsg></callbackReq>
+[2015-01-30 14:36:40.222] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackRsp>0</callbackRsp>
+[2015-01-30 14:36:45.141] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop?serviceid=validateorderid
+[2015-01-30 14:36:45.141] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><checkOrderIdReq><orderid>wwcs15013012462000000000000000000104</orderid><signMsg>e22d7786b2d860e511a7e357c00d7eba</signMsg><usercode>c0472308e8824962387d81b155149822</usercode><provinceid>4043</provinceid><cityid>10</cityid></checkOrderIdReq>
+[2015-01-30 14:36:45.142] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><paymessages><checkOrderIdRsp>0</checkOrderIdRsp><appname>玩玩车神</appname><feename>8万金币</feename><payfee>400</payfee><appdeveloper>豌豆荚出品</appdeveloper><gameaccount/><macaddress/><appid>9010792216420150123153416867300</appid><ipaddress/><serviceid>150123085231</serviceid><channelid>00018756</channelid><cpid>86008955</cpid><ordertime>20150130143645</ordertime><imei/><appversion>1.0.0</appversion></paymessages>
+[2015-01-30 14:36:45.142] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 14:36:45.142] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15013012462000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35116</status><signMsg>9b0d4783f8658aef3b5a5f5e9a8345cb</signMsg></callbackReq>
+[2015-01-30 14:36:45.143] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackRsp>0</callbackRsp>
+[2015-01-30 14:37:00.137] [DEBUG] http-logger - server listen at 20003
+[2015-01-30 14:37:02.207] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop?serviceid=validateorderid
+[2015-01-30 14:37:02.208] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><checkOrderIdReq><orderid>wwcs15013012462000000000000000000104</orderid><signMsg>e22d7786b2d860e511a7e357c00d7eba</signMsg><usercode>c0472308e8824962387d81b155149822</usercode><provinceid>4043</provinceid><cityid>10</cityid></checkOrderIdReq>
+[2015-01-30 14:37:02.214] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><paymessages><checkOrderIdRsp>0</checkOrderIdRsp><appname>玩玩车神</appname><feename>8万金币</feename><payfee>400</payfee><appdeveloper>豌豆荚出品</appdeveloper><gameaccount/><macaddress/><appid>9010792216420150123153416867300</appid><ipaddress/><serviceid>150123085231</serviceid><channelid>00018756</channelid><cpid>86008955</cpid><ordertime>20150130143702</ordertime><imei/><appversion>1.0.0</appversion></paymessages>
+[2015-01-30 14:37:02.215] [DEBUG] http-logger - new client coming ip:192.168.22.66 method:POST url:/wo_shop
+[2015-01-30 14:37:02.215] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackReq><orderid>wwcs15013012462000000000000000000104</orderid><ordertime>0080CF4167C189</ordertime><cpid>86008955</cpid><appid></appid><fid>00018756</fid><consumeCode></consumeCode><payfee>0</payfee><payType>2</payType><hRet>1</hRet><status>35116</status><signMsg>9b0d4783f8658aef3b5a5f5e9a8345cb</signMsg></callbackReq>
+[2015-01-30 14:37:02.217] [DEBUG] http-logger - <?xml version="1.0" encoding="UTF-8"?><callbackRsp>0</callbackRsp>
