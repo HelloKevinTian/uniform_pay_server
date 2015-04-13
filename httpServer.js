@@ -107,7 +107,7 @@ connector.prototype.parsePost = function(req, res, cb) {
 connector.prototype.dispatchMessage = function(data, url, req, res) {
 	if (url == "/test_status") {
 		res.end("pay_server success..");
-		return
+		return;
 	}
 	http_logger.debug(data);
 	console.log("dispatchMessage");
