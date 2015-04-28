@@ -7,6 +7,30 @@ log4js.configure(log_json);
 var http_logger = log4js.getLogger('http-logger');
 var parse_string = require('xml2js').parseString;
 var pay_message = require('./config/pay_message');
+
+var redis = require("redis");
+var opts = {
+	"no_ready_check": false //proxy or not
+};
+
+var client = redis.createClient(6379, '127.0.0.1', opts);
+
+client.on("error", function(err) {
+	console.log("Redis Error: " + err);
+});
+
+var logPayInfo = function(orderid, payInfo) {
+	var now = new Date();
+	client.hset(
+		"uniform_pay_info",
+		orderid.toString() + '_' + now.toSting(),
+		payInfo.toString(),
+		function(err) {
+			if (err) throw err;
+		}
+	);
+}
+
 /**
  * construct function
  * @param host
@@ -131,6 +155,7 @@ connector.prototype.dispatchMessage = function(data, url, req, res) {
 					});
 					var now = new Date();
 					console.log("wo_shop ok: --------------end-----------   " + now);
+					logPayInfo(orderid + "_verify_2",data);
 					res.end(xml_pay_message_res);
 				}
 			}
@@ -172,6 +197,7 @@ connector.prototype.dispatchMessage = function(data, url, req, res) {
 						'Content-Type': 'application/text/xml; charset=utf-8'
 					});
 					console.log("wo_shop serviceid ok...");
+					logPayInfo(orderid + "_verify_1",data);
 					res.end(xml_pay_message_res);
 				}
 			}
