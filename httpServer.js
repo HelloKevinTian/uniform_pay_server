@@ -23,7 +23,7 @@ var logPayInfo = function(orderid, payInfo) {
 	var now = new Date();
 	client.hset(
 		"uniform_pay_info",
-		orderid.toString() + '_' + now.toSting(),
+		orderid.toString() + '_' + now.toString(),
 		payInfo.toString(),
 		function(err) {
 			if (err) throw err;
